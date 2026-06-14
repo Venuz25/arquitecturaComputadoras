@@ -4,7 +4,7 @@
       <td style="border: none; vertical-align: middle;"><img src="https://www.escom.ipn.mx/x/ee2021/images/galeriaEE2021/escudo_ESCOM.png" width="200" alt="Logo"></td>
       <td style="border: none; vertical-align: middle; text-align: left;">
         <h1>Arquitectura de Computadoras</h1>
-        <p>Prácticas y material de la materia de Arquitectura de Computadoras</p>
+        <p>Prácticas y material de la materia de Arquitectura de Computadoras.</p>
         <p><em>Prof. Gelacio Castillo Cabrera</em></p>
       </td>
     </tr>
