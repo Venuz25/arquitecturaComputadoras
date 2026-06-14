@@ -1,0 +1,122 @@
+<top name = "and00"  library = "work"  arch = "RTL"  entry = "VHDL">
+
+<clocks>
+</clocks>
+
+<!--
+    //=============================================================
+    //  Number of Clocks processed: 0
+    //
+    //  If a clock cannot be found in the top level pins section,
+    //  that means it is an internal clock.
+    //
+    //=============================================================
+-->
+
+<library name = "work">
+
+<unit name = "and00">
+
+    <!--
+        Top Level Pins: 24
+    -->
+
+    <pins>
+        <pitem  name = "Aa[7]"  direction = "in"  />
+        <pitem  name = "Aa[6]"  direction = "in"  />
+        <pitem  name = "Aa[5]"  direction = "in"  />
+        <pitem  name = "Aa[4]"  direction = "in"  />
+        <pitem  name = "Aa[3]"  direction = "in"  />
+        <pitem  name = "Aa[2]"  direction = "in"  />
+        <pitem  name = "Aa[1]"  direction = "in"  />
+        <pitem  name = "Aa[0]"  direction = "in"  />
+        <pitem  name = "Ba[7]"  direction = "in"  />
+        <pitem  name = "Ba[6]"  direction = "in"  />
+        <pitem  name = "Ba[5]"  direction = "in"  />
+        <pitem  name = "Ba[4]"  direction = "in"  />
+        <pitem  name = "Ba[3]"  direction = "in"  />
+        <pitem  name = "Ba[2]"  direction = "in"  />
+        <pitem  name = "Ba[1]"  direction = "in"  />
+        <pitem  name = "Ba[0]"  direction = "in"  />
+        <pitem  name = "Ya[7]"  direction = "out"  />
+        <pitem  name = "Ya[6]"  direction = "out"  />
+        <pitem  name = "Ya[5]"  direction = "out"  />
+        <pitem  name = "Ya[4]"  direction = "out"  />
+        <pitem  name = "Ya[3]"  direction = "out"  />
+        <pitem  name = "Ya[2]"  direction = "out"  />
+        <pitem  name = "Ya[1]"  direction = "out"  />
+        <pitem  name = "Ya[0]"  direction = "out"  />
+    </pins>
+
+    <!--
+        Instances in netlist: 1
+    -->
+
+    <instance  name = "Aa_7__I_0"  library = "work"  arch = "RTL"  type = "comb">
+        <pins>
+        <pitem  name = "a[7]"  direction = "in"  />
+        <pitem  name = "a[6]"  direction = "in"  />
+        <pitem  name = "a[5]"  direction = "in"  />
+        <pitem  name = "a[4]"  direction = "in"  />
+        <pitem  name = "a[3]"  direction = "in"  />
+        <pitem  name = "a[2]"  direction = "in"  />
+        <pitem  name = "a[1]"  direction = "in"  />
+        <pitem  name = "a[0]"  direction = "in"  />
+        <pitem  name = "b[7]"  direction = "in"  />
+        <pitem  name = "b[6]"  direction = "in"  />
+        <pitem  name = "b[5]"  direction = "in"  />
+        <pitem  name = "b[4]"  direction = "in"  />
+        <pitem  name = "b[3]"  direction = "in"  />
+        <pitem  name = "b[2]"  direction = "in"  />
+        <pitem  name = "b[1]"  direction = "in"  />
+        <pitem  name = "b[0]"  direction = "in"  />
+        <pitem  name = "o[7]"  direction = "out"  />
+        <pitem  name = "o[6]"  direction = "out"  />
+        <pitem  name = "o[5]"  direction = "out"  />
+        <pitem  name = "o[4]"  direction = "out"  />
+        <pitem  name = "o[3]"  direction = "out"  />
+        <pitem  name = "o[2]"  direction = "out"  />
+        <pitem  name = "o[1]"  direction = "out"  />
+        <pitem  name = "o[0]"  direction = "out"  />
+        </pins>
+
+        <nets>
+        <nitem  name = "Aa[7]"  />
+        <nitem  name = "Aa[6]"  />
+        <nitem  name = "Aa[5]"  />
+        <nitem  name = "Aa[4]"  />
+        <nitem  name = "Aa[3]"  />
+        <nitem  name = "Aa[2]"  />
+        <nitem  name = "Aa[1]"  />
+        <nitem  name = "Aa[0]"  />
+        <nitem  name = "Ba[7]"  />
+        <nitem  name = "Ba[6]"  />
+        <nitem  name = "Ba[5]"  />
+        <nitem  name = "Ba[4]"  />
+        <nitem  name = "Ba[3]"  />
+        <nitem  name = "Ba[2]"  />
+        <nitem  name = "Ba[1]"  />
+        <nitem  name = "Ba[0]"  />
+        <nitem  name = "Ya[7]"  />
+        <nitem  name = "Ya[6]"  />
+        <nitem  name = "Ya[5]"  />
+        <nitem  name = "Ya[4]"  />
+        <nitem  name = "Ya[3]"  />
+        <nitem  name = "Ya[2]"  />
+        <nitem  name = "Ya[1]"  />
+        <nitem  name = "Ya[0]"  />
+        </nets>
+    </instance>
+
+    <!--
+        Views in design "and00": 0
+    -->
+
+    <views>
+    </views>
+
+</unit>
+
+</library>
+
+</top>
